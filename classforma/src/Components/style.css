@@ -1,0 +1,25 @@
+.headline {
+    margin-left: 50px;
+    font-size:2rem;
+}
+
+.line{
+    border: 1px solid black;
+    margin-top: -25px;
+    width: 25%;
+    margin-left: 25px;
+}
+
+.links{
+    margin-top: 20px;
+    margin-left:75px;
+    font-size: 1.7rem;
+}
+
+.link1{
+    margin-bottom: 5px;
+}
+
+.link2{
+    margin-bottom: 5px;
+}
